@@ -30,15 +30,6 @@ int main()
 
     cout << myTime << " + 100,000s = " << myTime + 100'000 << endl << endl;
 
-    //Testing of new overloaded "-" operator
-    //VTime newTime(2, 40, 15);
-    //cout << "Seconds difference between " << myTime << " and " << newTime << " = " << myTime - newTime << "s" << endl << endl;
-
-    //Creating a VTime object with the current time
-    //VTime nowTime;
-    //nowTime.setTimeNow();
-    //cout << "Current Time: " << nowTime << endl;
-
     return 0;
 }
 
