@@ -30,6 +30,8 @@ int main()
 
     cout << myTime << " + 100,000s = " << myTime + 100'000 << endl << endl;
 
+    cout << "Here's a change in the code!" << endl;
+
     return 0;
 }
 
